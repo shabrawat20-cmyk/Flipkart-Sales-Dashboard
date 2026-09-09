@@ -54,5 +54,9 @@ The objective of this project is to transform raw Flipkart sales data into an in
 - Analyzed payment modes, delivery status, and return status.
 - Used interactive dashboard elements to support business decision-making.
 
+- ## Dashboard Preview
+
+![Flipkart Sales Dashboard](a_clean_modern_colorful_analytics_dashboard_imag.png)
+
 
 
