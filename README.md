@@ -56,7 +56,7 @@ The objective of this project is to transform raw Flipkart sales data into an in
 
 - ## Dashboard Preview
 
-![Flipkart Sales Dashboard](a_clean_modern_colorful_analytics_dashboard_imag.png)
+![Flipkart Sales Dashboard](Flipkart-Sales-Dashboard.png)
 
 
 
