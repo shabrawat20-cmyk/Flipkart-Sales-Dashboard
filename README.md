@@ -55,6 +55,7 @@ The objective of this project is to transform raw Flipkart sales data into an in
 - Used interactive dashboard elements to support business decision-making.
 - The business achieved an overall profit margin of 19.20%, indicating healthy profitability.
 - Wireless Earbuds were the top revenue-generating product, contributing approximately ₹34.68 lakh.
+- UPI was the most-used payment mode, accounting for 319 of 1,500 orders.
 
 - ## Dashboard Preview
 
