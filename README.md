@@ -43,8 +43,7 @@ Interactive Flipkart Sales Dashboard built in Microsoft Excel for analyzing sale
 
 ## Project Objective
 
-The objective of this project is to transform raw Flipkart sales data into an interactive Excel dashboard that helps understand sales performance and identify useful business insights.
-
+The objective of this project is to transform raw Flipkart sales data into an interactive Excel dashboard that provides clear insights into revenue, profit, orders, products, customers, and sales performance to support data-driven business decisions.
 
 ## Key Business Insights
 
