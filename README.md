@@ -45,6 +45,12 @@ Interactive Flipkart Sales Dashboard built in Microsoft Excel for analyzing sale
 
 The objective of this project is to transform raw Flipkart sales data into an interactive Excel dashboard that provides clear insights into revenue, profit, orders, products, customers, and sales performance to support data-driven business decisions.
 
+## Project Structure
+
+- `Flipkart_Sales_Dashboard.xlsx` — Main Excel dashboard workbook
+- `Flipkart-Sales-Dashboard.png` — Dashboard preview image
+- `README.md` — Project documentation
+
 ## Key Business Insights
 
 - Electronics is the dominant category, contributing approximately 82% of total revenue.
