@@ -48,11 +48,13 @@ The objective of this project is to transform raw Flipkart sales data into an in
 
 ## Key Business Insights
 
-- Identified top-performing products, brands, and categories based on revenue.
+- Electronics is the dominant category, contributing approximately 82% of total revenue.
 - Analyzed monthly revenue trends to understand sales performance over time.
-- Compared revenue performance across different states.
-- Analyzed payment modes, delivery status, and return status.
+- The overall return rate was approximately 2.33%, with 35 returned orders out of 1,500 total orders.
+- February recorded the highest monthly revenue at approximately ₹29.77 lakh.
 - Used interactive dashboard elements to support business decision-making.
+- The business achieved an overall profit margin of 19.20%, indicating healthy profitability.
+- Wireless Earbuds were the top revenue-generating product, contributing approximately ₹34.68 lakh.
 
 - ## Dashboard Preview
 
